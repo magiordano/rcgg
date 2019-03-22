@@ -12,3 +12,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+/* div { 
+  outline: 2px dashed blue;
+  } */
+
+  #classes
+  {
+    margin: 10px;
+  }
+  .start
+  {
+    margin-top: 25px;
+  }
+
+  /* .list-group-item {
+ 
+  } */
+h6{
+  text-align: center; 
+}
