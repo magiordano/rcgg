@@ -29,7 +29,7 @@ class App extends Component {
                   <div class="row">
                     <div class="col-6">
 
-                      <ul class="list-group">    <h6 text>1</h6>
+                      <ul class="list-group">   
                         <li class="list-group-item ">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Morbi leo risus</li>
@@ -39,28 +39,7 @@ class App extends Component {
                       </ul>
                     </div>
                     <div class="col-6">
-                      <ul class="list-group"><h6 text>2</h6>
-                        <li class="list-group-item ">Cras justo odio</li>
-                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                        <li class="list-group-item">Morbi leo risus</li>
-                        <li class="list-group-item">Porta ac consectetur ac</li>
-                        <li class="list-group-item">Morbi leo risus</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-6">
-
-                      <ul class="list-group"><h6 text>3</h6>
-                        <li class="list-group-item">Cras justo odio</li>
-                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                        <li class="list-group-item">Morbi leo risus</li>
-                        <li class="list-group-item">Porta ac consectetur ac</li>
-                        <li class="list-group-item">Morbi leo risus</li>
-                      </ul>
-                    </div>
-                    <div class="col-6">
-                      <ul class="list-group"><h6 text>4</h6>
+                      <ul class="list-group">
                         <li class="list-group-item ">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Morbi leo risus</li>
@@ -72,7 +51,7 @@ class App extends Component {
                   <div class="row">
                     <div class="col-6">
 
-                      <ul class="list-group"> <h6 text>5</h6>
+                      <ul class="list-group">
                         <li class="list-group-item">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Morbi leo risus</li>
@@ -81,7 +60,28 @@ class App extends Component {
                       </ul>
                     </div>
                     <div class="col-6">
-                      <ul class="list-group"><h6 text>6</h6>
+                      <ul class="list-group">
+                        <li class="list-group-item ">Cras justo odio</li>
+                        <li class="list-group-item">Dapibus ac facilisis in</li>
+                        <li class="list-group-item">Morbi leo risus</li>
+                        <li class="list-group-item">Porta ac consectetur ac</li>
+                        <li class="list-group-item">Morbi leo risus</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-6">
+
+                      <ul class="list-group">
+                        <li class="list-group-item">Cras justo odio</li>
+                        <li class="list-group-item">Dapibus ac facilisis in</li>
+                        <li class="list-group-item">Morbi leo risus</li>
+                        <li class="list-group-item">Porta ac consectetur ac</li>
+                        <li class="list-group-item">Morbi leo risus</li>
+                      </ul>
+                    </div>
+                    <div class="col-6">
+                      <ul class="list-group">
                         <li class="list-group-item">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Morbi leo risus</li>
@@ -93,7 +93,7 @@ class App extends Component {
                   <div class="row">
                     <div class="col-6">
 
-                      <ul class="list-group"><h6 text>7</h6>
+                      <ul class="list-group">
                         <li class="list-group-item">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Morbi leo risus</li>
@@ -102,7 +102,7 @@ class App extends Component {
                       </ul>
                     </div>
                     <div class="col-6">
-                      <ul class="list-group"><h6 text>8</h6>
+                      <ul class="list-group">
                         <li class="list-group-item">Cras justo odio</li>
                         <li class="list-group-item">Dapibus ac facilisis in</li>
                         <li class="list-group-item">Morbi leo risus</li>
